@@ -8,13 +8,13 @@ Some related tool versions are similar to the [MUNIT](https://github.com/NVlabs/
 * GPU + CUDA cuDNN
 #### Framework and Results
 ![network](/results/network.png)
-Results comparison
+#####Results comparison
 ![edges2shoesc](./results/edge2shoesc.png)
-Edges-to-shoes
+#####Edges-to-shoes
 ![edge2shoes](./results/edge2shoes.png)
-Edges-to-anime
+#####Edges-to-anime
 ![edge2anime](./results/edge2anime.png)
-Face colorization
+#####Face colorization
 ![color](./results/color.png)
 #### Get Started
 ##### Clone the code repository
